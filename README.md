@@ -1,5 +1,5 @@
 # Digit-Recognizer
-Digit Recognizer using CNN or LogisticRegression
+Digit Recognizer using model using CNN or LogisticRegression
 
 
 #### [Python notebook (CNN)](https://nbviewer.jupyter.org/github/atultyagi612/Digit-Recognizer/blob/main/MNIST_digit_recognition_CNN.ipynb)
